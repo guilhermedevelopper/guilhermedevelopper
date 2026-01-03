@@ -1,10 +1,16 @@
-## Olá, me chamo Guilherme Gonçalves 👋
+<div align="center">
+  <h1>Olá, meu chamo Guilherme Gonçalves 👋</h1>
+  <p><strong>Desenvolvedor Back-End | Estudante de ADS</strong></p>
+</div>
 
-- 🔭 Trabalho com aplicações Backend
-- 🌱 Aluno do curso de Análise e Desenvolvimento de Sistemas
+---
 
-# Sobre mim
+## 💻 Sobre mim
 
+<table border="0">
+  <tr>
+    <td width="60%">
+      
 ```csharp
 using System;
 
@@ -27,27 +33,14 @@ public class Desenvolvedor
     }
 }
 ```
-### 🛠 Linguagens e Tecnologias:
-##
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
+</td>
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXZueXZueXZueXZueXZueXZueXZueXZueXZueXZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%">
+</td>
+</tr> </table>
 
-# Redes Sociais
+🛠 Linguagens e Tecnologias:
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="55" alt="dotnet logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55" alt="csharp logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55" alt="sqlserver logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="mysql logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo" /> </div>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/guilherme-gon%C3%A7alves-852b1b392/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:guilhermegoncalvesdev@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
-  </a>
-</div>
-
-
+🌐 Redes Sociais:
+<div align="left"> <a href="https://www.linkedin.com/in/guilherme-gon%C3%A7alves-852b1b392/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn"> </a> &nbsp; <a href="mailto:guilhermegoncalvesdev@outlook.com" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="45" alt="Outlook"> </a> </div>
