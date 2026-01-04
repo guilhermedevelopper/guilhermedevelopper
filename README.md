@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, meu chamo Guilherme Gonçalves 👋</h1>
+  <h1>Olá, me chamo Guilherme Gonçalves 👋</h1>
   <p><strong>Desenvolvedor Back-End | Estudante de ADS</strong></p>
 </div>
 
