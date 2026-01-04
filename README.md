@@ -24,11 +24,6 @@ public class Desenvolvedor
         ".NET", "SQL", 
         "EF Core" 
     };
-
-    public void ExibirPerfil() 
-    {
-        Console.WriteLine("Codificando o futuro, um commit por vez.");
-    }
 }
 ```
 </td>
